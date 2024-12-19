@@ -1,4 +1,4 @@
-# Expo Mobile App Project 📱
+# Expo App Project 📱
 
 ## Overview
 This is a cross-platform mobile application built with [Expo](https://expo.dev), a powerful framework for creating universal React Native apps. The project was bootstrapped using [`create-expo-app`](https://www.npmjs.com/package/create-expo-app) to ensure best practices and optimal setup.
@@ -15,8 +15,8 @@ This is a cross-platform mobile application built with [Expo](https://expo.dev),
 
 1. Clone the repository
 ```bash
-git clone [your-repo-url]
-cd [your-project-name]
+git clone https://github.com/Bhanu221999/littlelemon-app.git
+cd littlelemon-app
 ```
 
 2. Install dependencies
